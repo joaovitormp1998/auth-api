@@ -57,7 +57,7 @@ POST /auth/register - Registra um novo usuário no aplicativo
 "role":"USUARIO"
 }
 ```
-
+```
 
 GET /product - Recupera uma lista de todos os produtos. (todos os usuários autenticados)
 
